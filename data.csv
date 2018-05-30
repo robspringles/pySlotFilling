@@ -1,0 +1,5 @@
+﻿action,params,values,response
+reserve_golf,location,,where do you want to go?
+reserve_golf,date,,when do you want to go?
+reserve_golf,hour,,when do you want to start playing?
+reserve_golf,accompanies,,how many people will you bring?
